@@ -1,0 +1,7 @@
+D:\AZ-204 -Alan raudricks\demoproject\learningapp\bin\Publish\learningapp.exe
+D:\AZ-204 -Alan raudricks\demoproject\learningapp\bin\Publish\appsettings.Development.json
+D:\AZ-204 -Alan raudricks\demoproject\learningapp\bin\Publish\appsettings.json
+D:\AZ-204 -Alan raudricks\demoproject\learningapp\bin\Publish\learningapp.dll
+D:\AZ-204 -Alan raudricks\demoproject\learningapp\bin\Publish\learningapp.deps.json
+D:\AZ-204 -Alan raudricks\demoproject\learningapp\bin\Publish\learningapp.runtimeconfig.json
+D:\AZ-204 -Alan raudricks\demoproject\learningapp\bin\Publish\learningapp.pdb
